@@ -1,0 +1,49 @@
+What are the 3 main purposes of an Operating System?::E
+Explain the concept of virtual machines.::E
+Explain the distinguishing features of i)Real time system ii)Multi Processor system::M
+What is the purpose of command interpreter? Why is it usually separate from the  Kernel?::M
+What is an Operating System? Explain considering different possible views::M
+What is operating system? What are functions of operating system?::M
+What are multiprocessor systems? Give advantages.::M
+What is the main difficulty that a programmer must overcome in writing an operating system for real time environment?::M
+Define spooling and the need for it. Explain its working with necessary diagrams.::M
+Explain the following terms a) Buffering b) Spooling c) Time sharing d) Distributed system e) Real-time::D
+Compare tightly coupled systems with loosely coupled systems.::M
+Describe differences between symmetric and asymmetric multiprocessing. What are three advantages and one disadvantages of multiprocessor systems?::D
+Explain distinguished features of  i) Time-sharing system ii) Parallel processing::D
+Write a brief note on different operating system structures::D
+Explain different sub components of an operating system.::D
+Bring out the requirements of i) Real time operating systems (ii) Distributed operating systems::D
+What is an Operating System? Justify the statement “Operating System can be viewed as a government, resource allocator and a control program”.::D
+Define essential properties of the following types of Operating system: i}Batch operating system ii) Interactive operating system iii) Time sharing operating system iv) Real time operating system v}Distributed operating system::D
+Distinguish among the following terminologies associated with the operating system and explain each of them in detail.  i)Multiprogramming systems. ii)Multitasking systems. iii)Multiprocessor systems.::D
+Define Operating systems. Discuss its role with user and view points::M
+Define a virtual machine (VM). With a neat diagram, explain the working of a VM. What are the benefits of a VM?::D
+Explain the 'graceful degradation' and 'fault tolerant' in a multiprocessor system.::M
+Write and explain the sequence of system calls for copying a file to another (new) file.::M
+What are system calls? Explain the different categories of the system calls.::D
+List out services provided by the Operating Systems?::E
+What are client server systems & Peer-to-Peer systems?::E
+What is the purpose of the system calls & system programs?::E
+Explain the layered approach of the operating system::E
+Write short notes on operating system components.::E
+Describe process states with the help of process transition diagram::M
+What is the main difficulty that a programmer must overcome in writing an operating system for real time environment?::M
+Give difference between Job-scheduling & CPU-scheduling.::M
+Define spooling and the need for it. Explain its working with necessary diagrams.::M
+What is the meaning of overlapped CPU and I/O operation? Explain.::M
+What are system calls? What are categories of system calls?::M
+What are the five major activities of an operating system in regard to file management::D
+What are the five major activities of an operating system in regard to process management?::D
+What are the three major activities of an operating system in regard memory management?::M
+What are the three major activities of an operating system in regard to secondary storage management?::M
+Explain the functions of the following: i) System Calls   ii) System programs  iii) Command Interpreter::M
+Explain the layered approach to the structuring of an operating system along with the diagram::D
+List out and explain briefly the various services that the operating system provides to programs and users::D
+Explain the different system components of an operating system.::D
+What is the purpose of command interpreter? Why is it usually separate from kernel?::M
+What are different differences between user level threads & Kernel supported threads?::E
+What is Scheduler? What is a dispatcher?::E
+Give the information that is kept in process control block::E
+What are threads?::E
+What is co-operating process?::E

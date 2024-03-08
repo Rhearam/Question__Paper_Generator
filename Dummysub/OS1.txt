@@ -1,0 +1,28 @@
+----------------------------------------------2019-2020----------------------------------------------
+----------------------------------------COMPUTER NETWORKS 2-----------------------M.M=30-------
+----------------------------------------------Semester-6---------------------------------------------
+__SECTION A__:(Attempt All Questions) 
+1)Describe Network Topology.    [1]
+2)What is the function of the OSI Session Layer?    [1]
+3)What does 10Base-T mean?    [1]
+4)What is the purpose of cables being shielded and having twisted pairs?    [1]
+5)What are proxy servers and how do they protect computer networks?    [1]
+6)What is the job of the Network Layer under the OSI reference model?    [1]
+7)What is WAN?    [1]
+8)What are routers?    [1]
+9)What is VPN?    [1]
+10)What is the equivalent layer or layers of the TCP/IP Application layer in terms of OSI reference model?    [1]
+
+__SECTION B__:(Attempt any 4 Questions) 
+1)Describe star topology.    [3]
+2)What is tracert?    [3]
+3)What is peer to peer?    [3]
+4)Describe networking.    [3]
+5)What is the main job of the ARP?    [3]
+6)When you move the NIC cards from one PC to another PC, does the MAC address gets transferred as well?    [3]
+
+__SECTION C__:(Attempt any 2 Questions) 
+1)What is SMTP?    [4]
+2)How does dynamic host configuration protocol aid in network administration?    [4]
+3)What is the difference between CSMA/CD and CSMA/CA?    [4]
+------------------------------------------------The End----------------------------------------------
